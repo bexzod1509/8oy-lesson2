@@ -1,0 +1,67 @@
+.f {
+  background: rgb(238, 239, 241);
+  padding: 100px 0;
+  margin-top: 100px;
+}
+.f1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.f1 h1 {
+  color: rgb(0, 0, 0);
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.f1 p {
+  color: rgb(114, 114, 114);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-top: 50px;
+  max-width: 540px;
+}
+.f2 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-top: 65px;
+}
+.f2 input {
+  padding: 20px 18px;
+  width: 255px;
+  outline: none;
+  border: none;
+}
+.f1 textarea {
+  width: 540px;
+  height: 175px;
+  resize: none;
+  margin-top: 20px;
+  outline: none;
+  border: none;
+  padding: 20px 18px;
+}
+.f1 button {
+  display: block;
+  padding: 25px 41px;
+  background: rgb(52, 84, 122);
+  cursor: pointer;
+  border: none;
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 10%;
+  text-align: center;
+  margin-top: 50px;
+}

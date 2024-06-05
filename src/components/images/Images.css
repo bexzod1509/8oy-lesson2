@@ -1,0 +1,24 @@
+.e2 {
+  padding: 190px;
+  background: rgba(52, 84, 122, 0.8);
+  position: absolute;
+  margin-top: -485px;
+  transform: scale(0);
+  transition: transform 0.1s ease-in-out;
+}
+.e {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.e1:hover .e2 {
+  transform: scale(1);
+}
+.e3 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 72px;
+}

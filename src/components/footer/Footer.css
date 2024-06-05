@@ -1,0 +1,29 @@
+.g {
+  padding: 50px 0;
+  background: rgb(52, 84, 122);
+}
+.g1 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.g1 h1 {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.g1 p {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 20px;
+}

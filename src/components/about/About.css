@@ -1,0 +1,99 @@
+.c h1 {
+  color: rgb(0, 0, 0);
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: 0%;
+  margin-top: 119px;
+}
+.c p {
+  color: rgb(114, 114, 114);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  margin-top: 50px;
+  max-width: 540px;
+  text-align: center;
+}
+.c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.c1 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 50px;
+  justify-content: center;
+  padding: 100px 0;
+  background: rgb(52, 84, 122);
+  margin-top: 100px;
+}
+.c2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.c2 h1 {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.c2 p {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.c3 h1 {
+  color: rgb(0, 0, 0);
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 20px;
+}
+.c3 p {
+  color: rgb(114, 114, 114);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.c4 {
+  width: 350px;
+  height: 4px;
+  position: absolute;
+  margin-left: -445px;
+  margin-top: 11px;
+}
+.c5 {
+  width: 555px;
+  height: 450px;
+}
+.c3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 150px;
+  flex-wrap: wrap;
+  margin-top: 102px;
+}
